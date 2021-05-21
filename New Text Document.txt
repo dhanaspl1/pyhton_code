@@ -7,3 +7,5 @@ stay safe aND healthy
 cheking the changes
 
 in local meachine
+
+checking fetch and diff commands along with pull
